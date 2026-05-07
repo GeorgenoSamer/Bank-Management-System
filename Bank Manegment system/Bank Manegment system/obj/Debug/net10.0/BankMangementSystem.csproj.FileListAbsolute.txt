@@ -1,0 +1,14 @@
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.AssemblyInfoInputs.cache
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.AssemblyInfo.cs
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.csproj.CoreCompileInputs.cache
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\bin\Debug\net10.0\BankMangementSystem.exe
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\bin\Debug\net10.0\BankMangementSystem.deps.json
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\bin\Debug\net10.0\BankMangementSystem.runtimeconfig.json
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\bin\Debug\net10.0\BankMangementSystem.dll
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\bin\Debug\net10.0\BankMangementSystem.pdb
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.dll
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\refint\BankMangementSystem.dll
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.pdb
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\BankMangementSystem.genruntimeconfig.cache
+C:\lifeline\computer engineering\uni\Projects\oop\12th\Bank Manegment system\Bank Manegment system\obj\Debug\net10.0\ref\BankMangementSystem.dll
