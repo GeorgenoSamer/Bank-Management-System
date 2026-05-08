@@ -4,7 +4,6 @@
     {
         void Deposit();
         void Withdraw();
-        void DisplayBalance();
         void ShowTransactions();
         void CreateCreditCard();
         void MakePurchase();

@@ -3,10 +3,13 @@
 class Admin : Person, IAdminOperations
 {
     int bankreserves = 100000;
-
-    public int DisplayBankreserves()
+    public int BankReserves
     {
-        return bankreserves;
+        get { return bankreserves; }
+    }
+    public override void showbalance(int balance)
+    {
+        Console.WriteLine("Bank Reserves: " + this.bankreserves);
     }
 
     public void DisplayCustomers(List<Customer> customers)
@@ -30,4 +33,5 @@ class Admin : Person, IAdminOperations
             );
         }
     }
+
 }

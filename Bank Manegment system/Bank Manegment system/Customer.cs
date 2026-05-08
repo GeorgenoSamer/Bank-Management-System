@@ -130,9 +130,9 @@ class Customer : Person, ICustomerOperations
         Console.WriteLine("Registration successful!");
     }
 
-    public void DisplayBalance()
+    public override void showbalance(int balance)
     {
-        Console.WriteLine("Balance: " + balance);
+        Console.WriteLine("Balance: " + this.balance);
     }
 
     public void Deposit()

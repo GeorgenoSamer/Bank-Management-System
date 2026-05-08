@@ -11,7 +11,6 @@
             Admin admin = new Admin();
             bool adminRegistered = false;
             int adminNumber = 0;
-            bool customerRegistered = false;
             //Main menu
 
             while (choice != 0)
@@ -58,7 +57,6 @@
                     case 3: // Customer Registration
                         Customer newCustomer = new Customer();
                         newCustomer.Register(customers);
-                        customerRegistered = true;
                         customers.Add(newCustomer);
                         Console.WriteLine("Customer registered successfully!");
                         break;
@@ -146,7 +144,7 @@
                 switch (choice)
                 {
                     case 1:
-                        c.DisplayBalance();
+                        c.showbalance(c.Balance);
                         break;
 
                     case 2:
@@ -237,7 +235,7 @@
                         break;
 
                     case 2:
-                        Console.WriteLine("Bank Reserves: " + a.DisplayBankreserves());
+                        a.showbalance(a.BankReserves);
                         break;
 
                     case 3:

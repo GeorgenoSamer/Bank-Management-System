@@ -39,4 +39,5 @@
         Console.WriteLine("Wrong credentials");
         return false;
     }
+    public abstract void showbalance(int balance);
 }
