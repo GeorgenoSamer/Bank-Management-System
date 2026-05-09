@@ -229,9 +229,9 @@ class Customer : Person, ICustomerOperations
         Console.WriteLine("Enter desired credit limit (max 15000):");
 
         int limit;
-        if (!int.TryParse(Console.ReadLine(), out limit) || limit <= 0 || limit > 15000)
+        if (!int.TryParse(Console.ReadLine(), out limit) || limit <= 3000 || limit > 15000)
         {
-            Console.WriteLine("Invalid limit. Must be between 1 and 15000.");
+            Console.WriteLine("Invalid limit. Must be between 3000 and 15000.");
             return;
         }
 
